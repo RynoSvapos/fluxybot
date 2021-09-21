@@ -1,2 +1,13 @@
-# fluxybot
-A simple bababoey bot
+# Fluxy Bot
+
+What is this?
+
+> Bababoey
+
+What?
+
+## Bababoey
+
+Bababoey
+
+---
