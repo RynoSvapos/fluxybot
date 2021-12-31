@@ -13,7 +13,7 @@ const ytdl = require('ytdl-core');
 
 client.on("ready", () => {
 
-    console.log(`Il bot e' acceso`);
+    console.log(`Il bot e' al cesso`);
 
 
 
